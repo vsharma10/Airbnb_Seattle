@@ -29,7 +29,7 @@ This project explored the utility of Airbnb, Seattle dataset for obtaining insig
 
 ## 3.File Descriptions
 
-**airbnb_Seattle.ipnyb**
+**airbnb_seattle.ipnyb**
 
 This notebook presents the word related to addressing the above questions. The code for cleaning, engineering, and modeling data along with the markdown describing the process is presented.
 
